@@ -250,7 +250,7 @@ And we're just getting started.
 Here's what's coming next for Prakrit AI:
 → PrakritGPT on WhatsApp
 → Deeper Hindi + regional language support
-→ Apollo 247 integration (big one 👀)
+→ Major healthcare platform integration (big one 👀)
 → Chronic disease tracking & alerts
 → Maternal health module
 
