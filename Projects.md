@@ -32,3 +32,4 @@ A master list of all projects. Click on any project for detailed notes.
 | [[Projects/Zeople MI]] | Market intelligence & data visualization module | React, TypeScript, Supabase, Recharts | Active Dev |
 | [[Projects/Mehraas Space]] | Mental wellness companion app | React 19, Framer Motion | Early Stage |
 | [[Projects/Recruiter Call App]] | Browser-based calling with live transcription | React, Node.js, Twilio, Deepgram | Active |
+| [[Projects/Prakrit26]] | Prakrit AI — complete reference (codebase + strategy) | React, Supabase, OpenAI, Claude, Twilio | Active Dev |
