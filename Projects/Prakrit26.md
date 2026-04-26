@@ -217,3 +217,4 @@ SUPABASE_SERVICE_ROLE_KEY
 ## Linked Documents
 
 - [[Prakrit-Social-Media]] — 15 social media posts for the 20K milestone, PrakritGPT launch & WhatsApp teaser
+- [[Prakrit-6Month-SocialPlan]] — 6-month social media strategy (May–Oct 2026): themes, topics, research, article references

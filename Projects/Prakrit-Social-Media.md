@@ -6,6 +6,7 @@ linked-project: [[Prakrit26]]
 # Prakrit AI — Social Media Posts
 
 > Context: PrakritGPT launched 2 weeks ago to an overwhelming response. Crossed 20,000 users with 75%+ repeat users. High engagement on PrakritGPT. WhatsApp integration coming soon.
+> 6-month strategy: [[Prakrit-6Month-SocialPlan]]
 
 ---
 
