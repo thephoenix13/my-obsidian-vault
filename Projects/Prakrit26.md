@@ -208,3 +208,12 @@ SUPABASE_SERVICE_ROLE_KEY
 - Recent work: WhatsApp demo, session management, memory leak fixes, auth token fixes
 - 21 bug fixes documented (null checks, error handling, UI polish)
 - Apollo 247 integration in planning stage
+- Crossed **20,000 users** with **75%+ weekly repeat users** (April 2026)
+- PrakritGPT launched 2 weeks ago — high engagement, overwhelmingly positive response
+- WhatsApp integration for PrakritGPT coming soon
+
+---
+
+## Linked Documents
+
+- [[Prakrit-Social-Media]] — 15 social media posts for the 20K milestone, PrakritGPT launch & WhatsApp teaser
