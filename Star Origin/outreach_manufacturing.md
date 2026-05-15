@@ -1,7 +1,7 @@
-# Star Origin — RPO Outreach: Manufacturing
+# Star Origin — Recruitment Outreach: Manufacturing
 **Target:** Startups & Mid-Size Manufacturing Companies
-**Service:** Recruitment Process Outsourcing (RPO)
-**Sender:** Star Origin | "We Set Your Vision into Reality"
+**Service:** Regular Recruitment Service (per-role hiring support for shop floor, supervisory & specialist manufacturing roles)
+**Sender:** [Sender Name] from Star Origin — "We Set Your Vision into Reality"
 
 ---
 
@@ -34,7 +34,7 @@ Manufacturing companies face a dual hiring challenge: they need both blue-collar
 >
 > Most companies scramble when that moment arrives. We help you be ready for it.
 >
-> At **Star Origin**, we provide RPO (Recruitment Process Outsourcing) for manufacturing companies — handling bulk hiring, specialist sourcing, and everything in between, so your operations team stays focused on production, not paperwork.
+> At **Star Origin**, we are a specialist recruitment partner for manufacturing companies — handling bulk hiring, specialist sourcing, and everything in between, so your operations team stays focused on production, not paperwork.
 >
 > Worth 15 minutes to explore?
 >
@@ -53,7 +53,7 @@ Manufacturing companies face a dual hiring challenge: they need both blue-collar
 >
 > Hiring for manufacturing isn't a one-size-fits-all problem. You need people with specific certifications, safety awareness, technical know-how, and the temperament for shift-based work — and you often need them in large numbers, fast.
 >
-> Star Origin's RPO model for manufacturing companies delivers:
+> Star Origin's recruitment service for manufacturing companies delivers:
 >
 > - Bulk hiring capability for production ramp-ups
 > - Sourcing for specialist roles: quality engineers, safety officers, industrial engineers, plant managers
@@ -80,7 +80,7 @@ Manufacturing companies face a dual hiring challenge: they need both blue-collar
 >
 > And when you're scrambling to fill roles quickly, fit gets sacrificed for speed.
 >
-> Star Origin's RPO model is built for exactly this pressure. We maintain active pipelines for manufacturing roles so we can move quickly when you need to scale — without compromising on quality.
+> Star Origin's recruitment service is built for exactly this pressure. We maintain active pipelines for manufacturing roles so we can move quickly when you need to scale — without compromising on quality.
 >
 > Can we talk about what's currently open on your end?
 
@@ -131,7 +131,7 @@ Manufacturing companies face a dual hiring challenge: they need both blue-collar
 > **3. Ignoring attrition planning**
 > Manufacturing sees some of the highest workforce attrition across sectors. Without a continuous hiring pipeline, you're always playing catch-up.
 >
-> Star Origin's RPO model addresses all three. Happy to walk you through our approach.
+> Star Origin's recruitment service addresses all three. Happy to walk you through our approach.
 
 **CTA:** *"Walk me through it → [Link]"*
 
@@ -139,7 +139,7 @@ Manufacturing companies face a dual hiring challenge: they need both blue-collar
 
 ### Email 6 — Case Angle (Day 16)
 
-**Subject:** Why manufacturing companies are switching from contractors to RPO
+**Subject:** Why manufacturing companies are moving from contractors to direct hires
 **Preview text:** *The hidden costs of labour contractors are adding up.*
 
 > Hi [First Name],
@@ -148,7 +148,7 @@ Manufacturing companies face a dual hiring challenge: they need both blue-collar
 >
 > But contractor dependency has a ceiling. High margins, limited accountability, workforce quality that varies widely, and limited integration with your culture and safety standards.
 >
-> RPO gives you the speed of a contractor with the quality of an in-house hire.
+> A specialist recruitment partner gives you the speed of a contractor with the quality of an in-house hire.
 >
 > At Star Origin, our manufacturing clients see:
 > - Consistent quality across bulk hiring cohorts
@@ -171,7 +171,7 @@ Manufacturing companies face a dual hiring challenge: they need both blue-collar
 >
 > Contract staffing works well for short-term gaps. But if you're finding yourself with the same open contractor slots every 3–6 months — that's a retention and sourcing problem, not a staffing model problem.
 >
-> RPO helps you build a more stable workforce by:
+> Direct hiring through a specialist recruiter helps you build a more stable workforce by:
 > - Improving the quality and fit of each hire from the start
 > - Reducing time-to-fill so gaps are shorter
 > - Creating a talent pipeline so you're not starting from zero each time
@@ -212,7 +212,7 @@ Manufacturing companies face a dual hiring challenge: they need both blue-collar
 >
 > If you're planning a capacity expansion, new product line, or facility ramp-up in the next quarter, the hiring process needs to start now to hit your go-live date.
 >
-> Star Origin is currently onboarding a limited number of new manufacturing RPO clients for Q[X]. We'd love to include [Company Name] in that cohort.
+> Star Origin is currently onboarding a limited number of new manufacturing clients for Q[X]. We'd love to include [Company Name] in that cohort.
 >
 > Can we get 15 minutes on the calendar this week?
 
@@ -227,7 +227,7 @@ Manufacturing companies face a dual hiring challenge: they need both blue-collar
 
 > Hi [First Name],
 >
-> I've reached out a few times about RPO for manufacturing teams and haven't heard back.
+> I've reached out a few times about recruitment support for manufacturing teams and haven't heard back.
 >
 > I'll assume the timing wasn't right — but I did want to check one more time.
 >

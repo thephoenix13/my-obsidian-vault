@@ -1,7 +1,7 @@
-# Star Origin — RPO Outreach: Fintech
+# Star Origin — Recruitment Outreach: Fintech
 **Target:** Startups & Mid-Size Fintech Companies
-**Service:** Recruitment Process Outsourcing (RPO)
-**Sender:** Star Origin | "We Set Your Vision into Reality"
+**Service:** Regular Recruitment Service (per-role hiring support for fintech compliance, engineering & product)
+**Sender:** [Sender Name] from Star Origin — "We Set Your Vision into Reality"
 
 ---
 
@@ -34,7 +34,7 @@ Fintech companies operate at the intersection of financial services and technolo
 >
 > That pool is small. The competition for it is fierce.
 >
-> At **Star Origin**, we specialize in RPO (Recruitment Process Outsourcing) for high-growth companies. We've helped fintech teams fill compliance officers, backend engineers, risk analysts, and product managers — fast.
+> At **Star Origin**, we are a specialist recruitment partner for high-growth companies. We've helped fintech teams fill compliance officers, backend engineers, risk analysts, and product managers — fast.
 >
 > Worth a 15-minute conversation?
 >
@@ -55,7 +55,7 @@ Fintech companies operate at the intersection of financial services and technolo
 >
 > The result? Unqualified CVs, wasted interview time, and roles sitting open for 60+ days.
 >
-> At Star Origin, our RPO model gives you:
+> At Star Origin, our recruitment process gives you:
 >
 > - Recruiters who understand fintech compliance, RBI/SEBI regulations, and product-tech requirements
 > - A curated candidate pipeline — not a bulk resume dump
@@ -81,7 +81,7 @@ Fintech companies operate at the intersection of financial services and technolo
 >
 > These aren't hypothetical risks — they're real consequences of hiring under pressure with the wrong process.
 >
-> Our RPO model includes thorough credential verification, regulatory knowledge assessments, and structured screening — so you hire with confidence, not just speed.
+> Our recruitment process includes thorough credential verification, regulatory knowledge assessments, and structured screening — so you hire with confidence, not just speed.
 >
 > Can we talk about your current hiring process?
 
@@ -100,7 +100,7 @@ Fintech companies operate at the intersection of financial services and technolo
 >
 > Their internal HR team was 2 people. They had no bandwidth for sourcing.
 >
-> We stepped in as their embedded RPO partner:
+> We stepped in as their recruitment partner and ran the entire search:
 > - Built targeted pipelines for each function
 > - Ran structured interviews aligned to their compliance standards
 > - Delivered 18 offers in 43 days
@@ -133,7 +133,7 @@ Fintech companies operate at the intersection of financial services and technolo
 > **3. Delaying compliance hires until you're already in trouble**
 > Compliance and risk talent should scale with your product — not react to incidents.
 >
-> Our RPO model addresses all three. Happy to walk you through how.
+> Our recruitment process addresses all three. Happy to walk you through how.
 
 **CTA:** *"Walk me through it → [Link]"*
 
@@ -141,12 +141,12 @@ Fintech companies operate at the intersection of financial services and technolo
 
 ### Email 6 — Case Angle (Day 16)
 
-**Subject:** Why fintech companies are replacing job portals with RPO
+**Subject:** Why fintech companies are moving beyond job portals
 **Preview text:** *Speed isn't enough. You need precision.*
 
 > Hi [First Name],
 >
-> Job portals give you volume. RPO gives you precision.
+> Job portals give you volume. A specialist recruiter gives you precision.
 >
 > For fintech companies, the difference matters enormously. You're not looking for the most applicants — you're looking for the 3 candidates who genuinely understand your regulatory environment, tech stack, and customer segment.
 >
@@ -162,14 +162,14 @@ Fintech companies operate at the intersection of financial services and technolo
 
 ### Email 7 — Objection Handling (Day 20)
 
-**Subject:** "RPO feels like giving up control of hiring…"
+**Subject:** "Bringing in a recruiter feels like giving up control of hiring…"
 **Preview text:** *We get it. Here's why it's actually the opposite.*
 
 > Hi [First Name],
 >
 > This is one of the most common concerns we hear — especially from fintech founders and HR leads who care deeply about culture and fit.
 >
-> Here's the truth: RPO doesn't take away your control. It removes the parts you don't have time for.
+> Here's the truth: working with us doesn't take away your control. It removes the parts you don't have time for.
 >
 > You define the criteria. You make the final call. We handle sourcing, screening, scheduling, verification, and logistics.
 >
@@ -202,12 +202,12 @@ Fintech companies operate at the intersection of financial services and technolo
 
 ### Email 9 — Urgency (Day 28)
 
-**Subject:** Q[X] RPO slots are filling up
+**Subject:** Q[X] client slots are filling up
 **Preview text:** *We keep our client roster tight on purpose.*
 
 > Hi [First Name],
 >
-> At Star Origin, we deliberately limit the number of new RPO clients we onboard each quarter. It's how we guarantee the quality and speed our clients depend on.
+> At Star Origin, we deliberately limit the number of new clients we onboard each quarter. It's how we guarantee the quality and speed our clients depend on.
 >
 > We're currently finalizing our Q[X] onboarding — and we have a small number of slots remaining for fintech clients.
 >
@@ -226,7 +226,7 @@ Fintech companies operate at the intersection of financial services and technolo
 
 > Hi [First Name],
 >
-> I've been in touch a few times about RPO for fintech teams and haven't heard back.
+> I've been in touch a few times about recruitment support for fintech teams and haven't heard back.
 >
 > I get it — priorities shift, inboxes pile up.
 >

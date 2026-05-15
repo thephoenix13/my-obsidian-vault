@@ -1,7 +1,7 @@
-# Star Origin — RPO Outreach: IT
+# Star Origin — Recruitment Outreach: IT
 **Target:** Startups & Mid-Size IT Companies
-**Service:** Recruitment Process Outsourcing (RPO)
-**Sender:** Star Origin | "We Set Your Vision into Reality"
+**Service:** Regular Recruitment Service (per-role hiring support for engineering, DevOps, cloud & product roles)
+**Sender:** [Sender Name] from Star Origin — "We Set Your Vision into Reality"
 
 ---
 
@@ -32,7 +32,7 @@ The IT sector faces one of the most competitive talent markets globally. Startup
 >
 > In tech hiring, the best candidates don't stay available for long. While your team is scheduling interviews, they're already accepting offers elsewhere.
 >
-> At **Star Origin**, we run RPO engagements designed for the speed that IT hiring demands. Dedicated sourcers, technical pre-screening, and an active candidate database — so your pipeline moves faster than your competitors'.
+> At **Star Origin**, we run recruitment searches designed for the speed that IT hiring demands. Dedicated sourcers, technical pre-screening, and an active candidate database — so your pipeline moves faster than your competitors'.
 >
 > We support hiring across engineering, DevOps, cloud, product, QA, and more — for India and US markets.
 >
@@ -53,7 +53,7 @@ The IT sector faces one of the most competitive talent markets globally. Startup
 >
 > Great tech hiring isn't about collecting the most CVs — it's about identifying the right signal quickly.
 >
-> At Star Origin, our RPO model for IT companies includes:
+> At Star Origin, our recruitment process for IT companies includes:
 >
 > - Technical pre-screening aligned to your stack and seniority level
 > - Structured assessments before the candidate ever meets your team
@@ -82,7 +82,7 @@ The IT sector faces one of the most competitive talent markets globally. Startup
 >
 > Multiply that by 3–5 open roles and the math gets uncomfortable fast.
 >
-> Our RPO model is built to cut time-to-fill by 30–40% for IT roles. We work as an extension of your team — not a third-party agency you chase for updates.
+> Our recruitment process is built to cut time-to-fill by 30–40% for IT roles. We work as an extension of your team — not a third-party agency you chase for updates.
 >
 > Can we talk about what's currently open on your team?
 
@@ -101,7 +101,7 @@ The IT sector faces one of the most competitive talent markets globally. Startup
 >
 > Their internal recruiter was managing onboarding at the same time. They had no bandwidth for sourcing.
 >
-> Star Origin stepped in as their RPO partner:
+> Star Origin stepped in as their recruitment partner:
 > - Built a sourcing pipeline across React, Node.js, DevOps, and QA profiles
 > - Pre-screened 200+ candidates using structured technical assessments
 > - Delivered 30 qualified, offer-ready candidates within the window
@@ -136,7 +136,7 @@ The IT sector faces one of the most competitive talent markets globally. Startup
 > **3. No employer brand in the market**
 > Candidates research you before applying. If your Glassdoor and LinkedIn look empty, they move on.
 >
-> Star Origin's RPO model addresses all three — from JD writing to employer brand support.
+> Star Origin's recruitment process addresses all three — from JD writing to employer brand support.
 >
 > Happy to walk you through our approach.
 
@@ -146,23 +146,21 @@ The IT sector faces one of the most competitive talent markets globally. Startup
 
 ### Email 6 — Case Angle (Day 16)
 
-**Subject:** Why IT companies are ditching agencies for RPO
-**Preview text:** *Lower cost. Better quality. More control.*
+**Subject:** Why IT companies are switching to specialised recruiters
+**Preview text:** *Better screening. Better fit. Better retention.*
 
 > Hi [First Name],
 >
-> Traditional recruitment agencies charge 8–15% of the placed candidate's CTC — per hire. For a company making 20–30 hires a year, that's a significant budget line.
+> Most IT hiring goes wrong upstream — at sourcing and screening. Generic agencies and job portals flood you with volume, but rarely with the right signal. The hidden cost shows up later: failed onboarding, ramp-up loss, and attrition within 6–12 months.
 >
-> RPO changes the math entirely.
->
-> Instead of paying per placement, you get a dedicated team working exclusively on your roles — with full transparency, consistent process, and no markup on every hire.
+> Star Origin works differently. We invest time upfront understanding your tech stack, hiring bar, and culture, and we pre-screen technically — not just on keyword matches.
 >
 > Star Origin's IT clients typically see:
-> - 35–45% reduction in cost-per-hire vs. agency model
 > - 25–30% faster time-to-fill
 > - Significantly higher retention due to better cultural and technical fit
+> - Fewer interview cycles wasted on poor-fit candidates
 >
-> Want to see a cost comparison for your current hiring volume?
+> Want to see a sample sourcing brief for one of your open roles?
 
 **CTA:** *"Run the numbers → [Link]"*
 
@@ -171,17 +169,17 @@ The IT sector faces one of the most competitive talent markets globally. Startup
 ### Email 7 — Objection Handling (Day 20)
 
 **Subject:** "We've tried outsourcing hiring before. It didn't work."
-**Preview text:** *Fair. Here's why RPO is different from what you tried.*
+**Preview text:** *Fair. Here's why this can be different.*
 
 > Hi [First Name],
 >
 > We hear this often from IT companies — and usually, the bad experience was with a generalist agency that treated tech hiring like any other vertical.
 >
-> RPO is fundamentally different:
+> Star Origin works differently:
 >
-> - We're embedded in your process, not external to it
-> - We work exclusively on your roles — not juggling 50 other clients
-> - We align to your culture, tech stack, and hiring bar — not a generic scorecard
+> - We invest time upfront understanding your stack, hiring bar, and culture
+> - We pre-screen candidates technically — not just on keyword matches
+> - We work alongside your internal team, not as a black-box agency you chase for updates
 > - You have full visibility into the pipeline at every stage
 >
 > It's the difference between a contractor and a teammate.
@@ -216,7 +214,7 @@ The IT sector faces one of the most competitive talent markets globally. Startup
 
 > Hi [First Name],
 >
-> Star Origin limits the number of active RPO engagements we take on per quarter. It's a deliberate choice — it's how we guarantee quality, speed, and dedicated attention for every client.
+> Star Origin limits the number of active client searches we take on per quarter. It's a deliberate choice — it's how we guarantee quality, speed, and dedicated attention for every client.
 >
 > We have a small number of spots remaining for Q[X] onboarding.
 >
@@ -235,7 +233,7 @@ The IT sector faces one of the most competitive talent markets globally. Startup
 
 > Hi [First Name],
 >
-> I've shared a few thoughts about RPO for IT teams over the past few weeks and haven't heard back.
+> I've shared a few thoughts about recruitment support for IT teams over the past few weeks and haven't heard back.
 >
 > That's okay — but I did want to check in one more time.
 >
@@ -254,7 +252,7 @@ The IT sector faces one of the most competitive talent markets globally. Startup
 
 > Hi [First Name],
 >
-> I've been in touch a few times about RPO for your team and haven't heard back — so I'll take the hint and stop.
+> I've been in touch a few times about recruitment support for your team and haven't heard back — so I'll take the hint and stop.
 >
 > This is my last email.
 >

@@ -1,8 +1,8 @@
-# Star Origin — RPO Email Outreach Plan (11 Touchpoints)
+# Star Origin — Recruitment Email Outreach Plan (11 Touchpoints)
 
 **Company:** Star Origin (https://starorigin.in/home/)
-**Service Being Pitched:** Recruitment Process Outsourcing (RPO)
-**Sender Identity:** Star Origin | "We Set Your Vision into Reality"
+**Service Being Pitched:** Regular Recruitment Service (per-role hiring support)
+**Sender Identity:** [Sender Name] from Star Origin — "We Set Your Vision into Reality"
 **Core Hook:** *"Outsource your HR to Humans, not Software"*
 **Goal:** Move prospects from cold awareness → booked discovery call
 
@@ -35,7 +35,7 @@
 >
 > Hiring the right people is one of the hardest things a growing company does — and one of the most expensive to get wrong.
 >
-> At **Star Origin**, we take recruitment off your plate entirely. Our RPO (Recruitment Process Outsourcing) model means you get a dedicated hiring team — without the overhead of building one in-house.
+> At **Star Origin**, we step in as your recruitment partner — sourcing, screening, and presenting the right candidates for your open roles, so you don't have to chase resumes or run long internal searches.
 >
 > We specialize in executive, mid-level, bulk, and US staffing — with offices in Nagpur, Hyderabad, Dubai, and Dallas.
 >
@@ -49,14 +49,14 @@
 
 ## Email 2 — Value Pitch (Day 3)
 
-**Subject:** What makes RPO different from a regular recruiter?
+**Subject:** What makes Star Origin different from your usual recruiter?
 **Preview text:** *Hint: It's not just about filling seats.*
 
 > Hi [First Name],
 >
 > Most companies use job portals or agencies reactively — only when a role opens up.
 >
-> RPO is different. Here's what you actually get with Star Origin:
+> Star Origin works differently. Here's what you actually get when you work with us:
 >
 > - A dedicated hiring team embedded with your brand
 > - Faster time-to-hire (we carry an extensive candidate database)
@@ -82,7 +82,7 @@
 >
 > And if your HR team is stretched thin, the problem compounds. Roles stay open longer. Workloads pile up. Good candidates go elsewhere.
 >
-> This is exactly why mid-size and growing companies are switching to RPO.
+> This is exactly why mid-size and growing companies bring in a specialist recruitment partner.
 >
 > You get dedicated hiring capacity — without the payroll of a full in-house TA team.
 >
@@ -120,7 +120,7 @@
 
 > Hi [First Name],
 >
-> Here are 3 signs it's time to consider RPO:
+> Here are 3 signs it's time to bring in a specialist recruiter:
 >
 > **1. Roles take 45+ days to fill** — The market moves fast. Long hiring cycles mean losing top candidates.
 >
@@ -128,7 +128,7 @@
 >
 > **3. You're rehiring the same role repeatedly** — Churn is often a hiring-fit problem, not a people problem.
 >
-> If even one of these resonates, Star Origin's RPO model was built for exactly this.
+> If even one of these resonates, Star Origin's recruitment process was built for exactly this.
 >
 > Happy to walk you through how we approach it.
 
@@ -161,13 +161,13 @@
 ## Email 7 — Objection Handling (Day 20)
 
 **Subject:** "We already have an internal HR team…"
-**Preview text:** *So do most of our clients. Here's why they still chose RPO.*
+**Preview text:** *So do most of our clients. Here's why they still work with us.*
 
 > Hi [First Name],
 >
 > We hear this often — and it's a fair point.
 >
-> RPO doesn't replace your HR team. It supercharges it.
+> A specialist recruitment partner doesn't replace your HR team — it takes the sourcing and pipeline work off their plate.
 >
 > Your internal team handles what they know best — culture, policies, employee relations. We handle the pipeline — sourcing, screening, assessments, background verification.
 >
@@ -200,16 +200,16 @@
 
 ## Email 9 — Urgency (Day 28)
 
-**Subject:** We're onboarding [X] new RPO clients this quarter
+**Subject:** We're taking on [X] new clients this quarter
 **Preview text:** *Capacity is limited — here's why that matters to you.*
 
 > Hi [First Name],
 >
-> Every quarter, we take on a limited number of new RPO engagements to ensure dedicated attention for each client.
+> Every quarter, we take on a limited number of new client engagements so every search gets the attention it needs.
 >
 > We're currently in conversations with several companies for Q[X] onboarding — and slots are filling up.
 >
-> If RPO is something you want to explore, now is a good time to have that conversation before we're fully committed for the quarter.
+> If hiring help is something you want to explore, now's a good time to have that conversation before we're fully committed for the quarter.
 >
 > 15 minutes could save you months of hiring headaches.
 
@@ -243,7 +243,7 @@
 
 > Hi [First Name],
 >
-> I've reached out a few times about Star Origin's RPO services and haven't heard back — which usually means one of two things: the timing isn't right, or this just isn't relevant for you.
+> I've reached out a few times about Star Origin's recruitment services and haven't heard back — which usually means one of two things: the timing isn't right, or this just isn't relevant for you.
 >
 > Either way, I completely understand.
 >
@@ -281,5 +281,6 @@ Tailored 11-email sequences are available for the following industries:
 - [Manufacturing](./outreach_manufacturing.md)
 - [EV (Electric Vehicles)](./outreach_ev.md)
 - [B2B SaaS](./outreach_b2b_saas.md)
+- [GCC / Captive Centers](./outreach_gcc_captive.md)
 
-Each variant is written for **startups and mid-size companies** in that sector.
+Each variant is written for **startups and mid-size companies** in that sector, except the GCC variant which targets multinational captives setting up or scaling in India.

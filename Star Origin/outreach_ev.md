@@ -1,7 +1,7 @@
-# Star Origin — RPO Outreach: EV (Electric Vehicles)
+# Star Origin — Recruitment Outreach: EV (Electric Vehicles)
 **Target:** Startups & Mid-Size EV Companies
-**Service:** Recruitment Process Outsourcing (RPO)
-**Sender:** Star Origin | "We Set Your Vision into Reality"
+**Service:** Regular Recruitment Service (per-role hiring support for EV core engineering & manufacturing)
+**Sender:** [Sender Name] from Star Origin — "We Set Your Vision into Reality"
 
 ---
 
@@ -34,7 +34,7 @@ The EV sector in India and globally is in a high-growth, high-pressure phase. Co
 >
 > At **Star Origin**, we help EV companies build the teams they need to move fast — without spending months hunting for candidates that are already taken.
 >
-> Our RPO model gives you dedicated hiring capacity, a specialized candidate pipeline, and end-to-end recruitment support — tailored specifically to the EV space.
+> We work as a specialist recruitment partner for the EV space — bringing a dedicated candidate pipeline, deep domain screening, and end-to-end search support tailored to your open roles.
 >
 > Would it make sense to connect for 15 minutes?
 >
@@ -53,7 +53,7 @@ The EV sector in India and globally is in a high-growth, high-pressure phase. Co
 >
 > Most generalist recruiters treat EV roles like any other engineering position. They match keywords on resumes and miss what actually matters — whether the candidate understands cell chemistry, thermal management, motor control algorithms, or CAN bus protocols.
 >
-> At Star Origin, our RPO model for EV companies includes:
+> At Star Origin, our recruitment process for EV companies includes:
 >
 > - Sourcers trained to identify genuine EV domain expertise
 > - Technical pre-screening frameworks for battery, embedded, power electronics, and software profiles
@@ -82,7 +82,7 @@ The EV sector in India and globally is in a high-growth, high-pressure phase. Co
 > - Expensive contract hires to fill critical gaps
 > - Loss of investor confidence when timelines slip
 >
-> Our RPO model is designed for speed in niche markets. We build pipelines proactively — so when you need to hire, we're already 3 steps ahead.
+> Our recruitment approach is designed for speed in niche markets. We build pipelines proactively — so when you need to hire, we're already 3 steps ahead.
 >
 > Can we talk about your current open roles?
 
@@ -133,7 +133,7 @@ The EV sector in India and globally is in a high-growth, high-pressure phase. Co
 > **3. Waiting until a role is critical before starting the search**
 > EV talent searches take 60–90 days for senior profiles. Starting late is the single biggest reason EV companies miss their milestones.
 >
-> Our RPO model addresses all three. Want to walk through how we approach EV hiring differently?
+> Our recruitment process addresses all three. Want to walk through how we approach EV hiring differently?
 
 **CTA:** *"Walk me through it → [Link]"*
 
@@ -153,7 +153,7 @@ The EV sector in India and globally is in a high-growth, high-pressure phase. Co
 > - Proactive sourcing — reaching people before they're actively looking
 > - Speed — a 3-week offer process beats a 6-week one, every time
 >
-> Star Origin's RPO model is built for exactly this environment. We've built networks in the EV and core engineering communities that let us reach the right people faster.
+> Star Origin's recruitment process is built for exactly this environment. We've built networks in the EV and core engineering communities that let us reach the right people faster.
 >
 > Let's talk about your hiring roadmap.
 
@@ -208,7 +208,7 @@ The EV sector in India and globally is in a high-growth, high-pressure phase. Co
 
 > Hi [First Name],
 >
-> Star Origin limits the number of active RPO engagements we take on per quarter to ensure every client gets dedicated attention and speed.
+> Star Origin limits the number of active client searches we take on per quarter, so every client gets dedicated attention and speed.
 >
 > We have a small number of slots remaining for Q[X] — and given EV hiring lead times, starting now means you'll have your team in place by the time your next milestone arrives.
 >
@@ -242,7 +242,7 @@ The EV sector in India and globally is in a high-growth, high-pressure phase. Co
 
 > Hi [First Name],
 >
-> I've reached out several times about RPO for EV teams and haven't heard back — I'll assume the timing isn't right and I respect that completely.
+> I've reached out several times about recruitment support for EV teams and haven't heard back — I'll assume the timing isn't right and I respect that completely.
 >
 > This is my last email.
 >

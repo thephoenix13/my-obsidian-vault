@@ -1,7 +1,7 @@
-# Star Origin — RPO Outreach: B2B SaaS
+# Star Origin — Recruitment Outreach: B2B SaaS
 **Target:** Startups & Mid-Size B2B SaaS Companies
-**Service:** Recruitment Process Outsourcing (RPO)
-**Sender:** Star Origin | "We Set Your Vision into Reality"
+**Service:** Regular Recruitment Service (per-role hiring support for SaaS GTM & product teams)
+**Sender:** [Sender Name] from Star Origin — "We Set Your Vision into Reality"
 
 ---
 
@@ -32,7 +32,7 @@ B2B SaaS companies live and die by their go-to-market execution and product qual
 >
 > In B2B SaaS, one bad sales hire can poison your pipeline culture, miss quota for two quarters, and take 6 months to replace.
 >
-> At **Star Origin**, we specialize in RPO (Recruitment Process Outsourcing) for high-growth companies. We help B2B SaaS teams hire the GTM and product talent they need — with a process built for speed and fit.
+> At **Star Origin**, we are a specialist recruitment partner for high-growth companies. We help B2B SaaS teams hire the GTM and product talent they need — with a process built for speed and fit.
 >
 > Whether you're building your first sales team or scaling a 50-person revenue org, we'd love to show you how we do it differently.
 >
@@ -55,7 +55,7 @@ B2B SaaS companies live and die by their go-to-market execution and product qual
 >
 > Generalist recruiters don't screen for that. We do.
 >
-> Star Origin's RPO model for B2B SaaS includes:
+> Star Origin's recruitment process for B2B SaaS includes:
 >
 > - SaaS-specific screening for GTM roles (AEs, SDRs, CSMs, RevOps, SEs)
 > - Product and engineering hiring support
@@ -85,7 +85,7 @@ B2B SaaS companies live and die by their go-to-market execution and product qual
 >
 > And when you replace them with the wrong person, the cycle repeats.
 >
-> Our RPO model addresses attrition at the source — by improving the quality and fit of every hire from the first interview. Better fit means longer tenure. Longer tenure means compounding revenue.
+> Our recruitment process addresses attrition at the source — by improving the quality and fit of every hire from the first interview. Better fit means longer tenure. Longer tenure means compounding revenue.
 >
 > Can we talk about your current sales hiring situation?
 
@@ -138,7 +138,7 @@ B2B SaaS companies live and die by their go-to-market execution and product qual
 > **3. Delaying the CS hire until you're already churning**
 > Your first CSM should come in before churn is a problem, not after. The cost of reactive CS hiring is measured in NRR.
 >
-> Our RPO model is built to catch all three. Happy to walk you through how.
+> Our recruitment process is built to catch all three. Happy to walk you through how.
 
 **CTA:** *"Walk me through it → [Link]"*
 
@@ -151,14 +151,14 @@ B2B SaaS companies live and die by their go-to-market execution and product qual
 
 > Hi [First Name],
 >
-> Most B2B SaaS companies underestimate what they're actually spending on hiring. Agency fees for GTM roles routinely run 12–18% of first-year OTE. For a mid-level AE, that's a significant number — per hire.
+> Most B2B SaaS companies underestimate the real cost of hiring. It's not just the recruiter fee — it's the months a role sits open, the wrong hires that need replacing, and the ramp-up time lost to early attrition.
 >
-> RPO restructures that cost entirely. Instead of paying per placement, you get a dedicated team working exclusively on your roles.
+> Star Origin is built to bring that total cost down — by getting the hire right the first time. SaaS-specific screening, structured GTM assessments, and replacement guarantees mean you spend less on hiring overall.
 >
 > Star Origin's SaaS clients typically see:
-> - 35–45% lower cost-per-hire vs. agency model
-> - Higher retention (better fit = longer tenure)
-> - Consistent process that scales as your hiring volume grows
+> - Fewer wasted interview cycles per role
+> - Higher 12-month retention (better fit = longer tenure)
+> - A single partner relationship vs. juggling multiple agencies
 >
 > Want to see what the cost math looks like for your team size?
 
@@ -194,7 +194,7 @@ B2B SaaS companies live and die by their go-to-market execution and product qual
 
 > Hi [First Name],
 >
-> I've shared a few thoughts on RPO for B2B SaaS teams over the past few weeks.
+> I've shared a few thoughts on hiring for B2B SaaS teams over the past few weeks.
 >
 > I'll be direct: is scaling your GTM or product team something [Company Name] is actively working on right now — or is it more of a back-burner priority?
 >
@@ -211,7 +211,7 @@ B2B SaaS companies live and die by their go-to-market execution and product qual
 
 > Hi [First Name],
 >
-> At Star Origin, we limit our active RPO client list each quarter to maintain quality and speed for every engagement.
+> At Star Origin, we limit the number of active client searches we take on each quarter, so every role gets dedicated attention and speed.
 >
 > We're finalizing Q[X] onboarding and have a small number of slots remaining.
 >
@@ -230,7 +230,7 @@ B2B SaaS companies live and die by their go-to-market execution and product qual
 
 > Hi [First Name],
 >
-> I've been in touch a few times about RPO for B2B SaaS hiring and haven't heard back.
+> I've been in touch a few times about B2B SaaS hiring and haven't heard back.
 >
 > I know the inbox gets crowded — no hard feelings.
 >
