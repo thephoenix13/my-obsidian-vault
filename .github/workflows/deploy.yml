@@ -53,34 +53,6 @@ jobs:
         run: npx quartz build
         working-directory: quartz
 
-      - name: Install StaticCrypt
-        run: npm install -g staticrypt
-
-      - name: Password protect site
-        env:
-          SITE_PASSWORD: ${{ secrets.SITE_PASSWORD }}
-          PASSWORD_STAR_ORIGIN: ${{ secrets.PASSWORD_STAR_ORIGIN }}
-          PASSWORD_PROJECTS: ${{ secrets.PASSWORD_PROJECTS }}
-          PASSWORD_PROPOSALS: ${{ secrets.PASSWORD_PROPOSALS }}
-        run: |
-          encrypt_folder() {
-            local dir="$1"
-            local pass="$2"
-            if [ -n "$pass" ] && [ -d "$dir" ]; then
-              echo "Encrypting: $dir"
-              (cd "$dir" && find . -name "*.html" -print0 | xargs -0 staticrypt --password "$pass" --remember 0 --short -d .)
-            fi
-          }
-
-          # Site password — root-level pages only (the front door)
-          (cd quartz/public && find . -maxdepth 1 -name "*.html" ! -name "404.html" -print0 | \
-            xargs -0 staticrypt --password "$SITE_PASSWORD" --remember 0 --short -d .)
-
-          # Per-folder passwords
-          encrypt_folder "quartz/public/Star-Origin" "$PASSWORD_STAR_ORIGIN"
-          encrypt_folder "quartz/public/Projects"   "$PASSWORD_PROJECTS"
-          encrypt_folder "quartz/public/Proposals"  "$PASSWORD_PROPOSALS"
-
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
