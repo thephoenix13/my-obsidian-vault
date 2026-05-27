@@ -1,10 +1,10 @@
-# VS Trading — Co-founder Alignment Framework
+# VS Trading — Founder Alignment Guide
 
-> Context: Pivot from investing capital to co-founding VS Trading as a legitimate firm, target launch January 2027. Four-cofounder team. This document is the framework for the alignment conversations that must happen *before* any launch plan is drafted. The plan is lane-dependent — there is nothing to plan around until a legal lane is chosen and the founding team is aligned on it.
+> Context: We're launching VS Trading as a formally structured firm in January 2027 — four cofounders, four functions. This document is the shared framework for the decisions we need to make together before incorporation: legal structure, role design, treatment of the existing client relationships, equity, and governance.
 
 ---
 
-## Founding team & role split
+## Founding team
 
 | Cofounder | Function |
 |---|---|
@@ -15,184 +15,134 @@
 
 ---
 
-## The role–lane tension (read this first)
+## Why a structured launch matters
 
-The role split itself implicitly votes for keeping the current model alive. Aashish's function (client management) and Shashi's function (capital raising) **only exist if VS Trading takes external investor money**. The legal-lane choice directly determines whether two of the four cofounders have a defined job:
+Building VS Trading as an incorporated firm changes the operating frame. Directors carry personal liability under the Companies Act and SEBI Act, and the regulatory regime in India is specific about how investment activity is structured. Several legitimate paths exist — each suits a different business model and ambition. The first decision we owe each other is which path we're choosing, because it shapes everything downstream: capital requirements, who our clients are, what each of our roles looks like, and how fast we can launch.
 
-| Lane | Aashish (clients) | Shashi (capital) |
-|---|---|---|
-| A — SEBI PMS | Exists, SEBI-regulated client onboarding | Exists, must operate under PMS distributor rules |
-| B — AIF Cat III | Exists, institutional/HNI clients only | Exists, fundraising for the AIF |
-| C — Prop firm | Does not exist | Reframed to partner equity, not investor capital |
-
-This is the most uncomfortable part of the founding conversation. It cannot be avoided. If Vinayak picks Lane C for legal cleanliness, two cofounders need their roles redefined (marketing, ops scaling, strategy partnerships, etc.) — or they may not belong on the founding team at all. If the team picks Lane A or B to preserve everyone's roles, the firm is committing to 9-12 months of regulatory work and a much higher capital bar before launch.
-
-**Either choice is fine. Choosing without surfacing this is not.**
+This isn't about correcting the past — it's about choosing the right vehicle for what we're building together.
 
 ---
 
-## The unambiguous fact all four need to accept
+## The three legal structures
 
-The current model can't continue at firm scale. Not "needs better paperwork," not "needs a registered company name." The activity itself — pooling external money and promising fixed monthly returns — is what SEBI prosecutes. BUDS Act 2019 makes it non-bailable. As directors of an incorporated firm, all four become personally liable in a way Vinayak isn't today as a sole operator. **Incorporation increases legal exposure for the current model, not decreases it.**
-
-Don't soften this. If any of the four (especially Vinayak) can't accept this premise, there is no foolproof plan — there's just shared liability across four people instead of one.
-
-Relevant statutes:
-- SEBI Act, §12 — registration of intermediaries
-- Companies Act, §447 — fraud, up to 10 years + fine 3× the amount involved
-- BUDS Act 2019 — Banning of Unregulated Deposit Schemes — non-bailable, up to 10 years
-- SEBI Collective Investment Schemes Regulations, 1999
-
----
-
-## Two-phase meeting sequence
-
-Don't do this as one 4-way meeting. Stage it.
-
-### Phase 1 — Pratik ↔ Vinayak, 1:1
-
-Vinayak owns the existing business. He's the one whose day-to-day changes most. The "current model can't continue" conversation is harder for him to absorb in front of the others, and easier for the others to dismiss if Vinayak hasn't already accepted it. Get him to "yes" 1:1 first.
-
-Agenda for Phase 1:
-1. The legal reality (above)
-2. His five-year ambition for VS Trading (open question — listen)
-3. The three lanes — frame as his choice
-4. The existing book of 50 investors — preserve / exit / hybrid
-5. Acknowledgment that Aashish's and Shashi's roles depend on lane choice — does he want to discuss this before the 4-way meeting or in it?
-
-**Walk away with:** Vinayak's lane preference, his read on the existing book, and his agreement on how to broach the role-lane tension with the others.
-
-### Phase 2 — Four-way founders' session
-
-Only after Phase 1 lands. This is where equity, roles, governance, and the launch plan get worked out — but only because Vinayak is already aligned on what business VS Trading is going to be.
-
-Agenda for Phase 2:
-1. Vinayak walks the group through the lane decision (so it's *his* decision the group ratifies, not yours imposed)
-2. Roles confirmed or redefined for the chosen lane
-3. Equity, vesting, decision rights
-4. Existing book — exit waterfall ownership
-5. Backward-planned milestones to Jan 2027
-
----
-
-## The three lanes — frame as Vinayak's choice in Phase 1
-
-He's the trader; the lane he picks determines what he gets to do day-to-day.
+India offers three primary structures for what VS Trading does. Each has implications for capital, clients, regulatory load, and role design.
 
 ### Lane A — SEBI PMS (Portfolio Management Services)
-- ₹5 Cr net worth requirement
+
+- ₹5 Cr net worth requirement for the firm
 - ₹50L minimum ticket per client
 - NISM Series-XXI-B certification for the portfolio manager (Vinayak)
-- No guaranteed returns — performance-linked fees only
-- ~9-12 month licensing timeline (tight for Jan 2027)
-- Existing 50 investors cannot be carried over at current ticket sizes — top up to ₹50L or exit
-- All four cofounder roles remain meaningful
+- Performance-linked fees (no fixed-return promises)
+- ~9–12 month licensing timeline (tight but feasible for Jan 2027)
+- All four founder roles map cleanly onto the structure
 
-### Lane B — SEBI AIF Category III
+### Lane B — SEBI AIF Category III (Alternative Investment Fund)
+
 - ₹20 Cr minimum corpus
-- ₹1 Cr minimum per investor
+- ₹1 Cr minimum from each investor
 - Sponsor with ₹5 Cr net worth + trustee structure required
-- 6-9 month setup
-- Hardest to hit Jan 2027 unless sponsor is already lined up
-- All four cofounder roles remain meaningful but institutional in flavour
+- 6–9 month setup
+- Suits an institutional/HNI orientation
+- All four founder roles map cleanly, with institutional flavour
 
 ### Lane C — Proprietary Trading Firm
-- Trade only partner capital — no external investor money
-- No SEBI registration beyond broker/exchange memberships
-- Cleanest legally, fastest to launch
-- Existing 50 investors fully exited
-- **Aashish and Shashi need roles redefined or new cofounders may not fit**
-- Revenue comes from trading P&L, not AUM spread
+
+- Trade only partner capital — firm doesn't take external investor money
+- No SEBI registration needed beyond standard broker/exchange memberships
+- Fastest launch path
+- Revenue comes from trading P&L, not from managing external AUM
+- Aashish's and Shashi's roles would need to be reshaped (e.g., toward partnerships, strategy, internal scale-up) since there are no external clients to manage and no external capital to raise
 
 ### Hybrid: Prop firm + SEBI Investment Adviser (RIA) arm
-- Trade own book; separately advise (not manage) clients for a fee
+
+- Trade own book; separately operate a registered advisory arm
 - RIA registration (INA-prefixed), NISM Series-X-A/B certification
 - Smaller revenue ceiling than PMS, but preserves a client-facing role for Aashish
-- Shashi's role still doesn't have a natural fit
-
-**Useful prompt for Vinayak:** "Which of these sounds like the business you'd want to run for 10 years?"
+- Shashi's role would still need redesign
 
 ---
 
-## The existing book of 50 investors
+## How each lane shapes our roles
 
-Hardest conversation. Vinayak's relationships, his proof-of-concept, and (if returns have actually been paid) his current cash flow. Any legitimate lane breaks that relationship. He needs to internalize this in Phase 1, not have it sprung on him in the 4-way.
+| Lane | Aashish (Clients) | Shashi (Capital) |
+|---|---|---|
+| A — SEBI PMS | Client onboarding under SEBI regulations | Distributor or in-house, under PMS framework |
+| B — AIF Cat III | HNI / institutional clients | Fundraising for the AIF corpus |
+| C — Prop firm | Reshaped — partnerships, scale-up, internal | Reshaped — partner equity, strategic capital |
+| Hybrid | Client management under RIA | Reshaped |
 
-**Useful prompt:** "If we did this properly, your current 50 investors don't fit the new structure. How do we close that out cleanly so they walk away happy?" — operational question, not moral.
-
-Diagnostic questions to get answered:
-- Of the ₹2 Cr claimed AUM, how much is actually liquid and returnable today?
-- **Are monthly payouts being made from real trading P&L, or from new investor inflows?** This is the load-bearing question. If it's the latter, the exit waterfall is not just complex — it's a wind-down of something that can't pay everyone back, and the four of you need to know that *before* you incorporate.
-- Which investors are family/close friends vs. acquaintances? Exit conversation differs.
-- What's been promised in writing vs. verbally?
-- Are there any signed agreements that bind a successor entity? (If so, the new firm may inherit liability whether it wants to or not.)
+This is something for all four of us to think through together. Lane choice and role design need to land in the same conversation.
 
 ---
 
-## Equity, roles, and governance — four-way founding agreement
+## Treatment of the existing investor relationships
 
-Four cofounders is harder than two. Deadlock risk, territorial fights, free-rider dynamics. Lock this down formally before any of you commits effort beyond the alignment meetings.
+Vinayak has built trust with ~50 investors over 14 months. As we transition to a structured firm, we'll need to decide together how those relationships are handled. The right answer depends on the lane we choose:
 
-### Equity split — basis to discuss
-- **Capital contributed** — who's putting in money, how much
-- **Existing business value** — Vinayak brings the brand, the strategy, the client list (whatever value survives the lane decision)
-- **Sweat & risk** — full-time vs. part-time, opportunity cost of leaving current roles
-- **Role criticality** — trading is the product; ops is the platform; client + capital functions are demand-side
-- **Replaceability** — who is hardest to replace if they leave in year 2?
+- **Lane A or B** — Ticket sizes in the new structure are higher (₹50L / ₹1 Cr) than the current average. Investors who want to scale up can migrate; others receive a clean exit with full principal and earned profits.
+- **Lane C** — The new entity doesn't take external investor money. All current investors are exited at the transition, on agreed timing.
 
-Common patterns to weigh, not adopt by default:
-- Equal 25/25/25/25 — simple but ignores asymmetry, often unstable
-- Vinayak-weighted (e.g., 40/20/20/20) — reflects that he's the trader and current owner
-- Capital-weighted with sweat overlay — most rigorous, hardest to negotiate
+The transition needs to be planned thoughtfully: a clear timeline, transparent communication, and a structure that honours the trust those investors placed in Vinayak. Operationally, we'll work out:
 
-### Mandatory in any founding agreement
-- Vesting (4-year standard, 1-year cliff) — applies to **all four**, including Vinayak
-- Reverse vesting on Vinayak's existing equity if the firm is built on his current entity
-- Decision rights matrix — who decides what, what requires unanimity, what requires majority
-- **Tie-breaker mechanism** — 2-2 splits will happen; pre-agree how they're resolved (chairman vote, external advisor, escalation clause)
-- Reserved matters — new investors, capital raises, strategy changes, dissolution, hiring above ₹X salary
-- Exit clauses — buyout mechanics if any cofounder wants out in years 1-3
-- Drag-along, tag-along, ROFR — standard protective provisions
-- IP ownership — Vinayak's strategy: personal property or firm asset?
-- Non-compete and non-solicit — especially relevant if the firm winds down
-- Compensation philosophy — salary structure vs. equity vs. profit share
-
-### Specific to a 4-cofounder firm
-- Quorum rules for board meetings (don't let one cofounder block by absence)
-- Cofounder departure: what happens to unvested + vested shares
-- Bad-leaver vs. good-leaver definitions
-- Founders' loan vs. equity — be explicit about which is which
+- The exit timeline (lump sum vs. phased)
+- Communication script and how/when to notify
+- Who owns the relationship management during transition
+- Whether any of them are candidates to migrate to the new structure (if Lane A or B)
+- Documentation of full settlement to protect both sides
 
 ---
 
-## What to walk away with from Phase 1 (Pratik ↔ Vinayak)
+## Equity, governance, and the founders' agreement
 
-Not a plan. Three things:
-1. Vinayak's chosen lane (or a clear "decide by X date")
-2. His view on the existing book — preserve, exit, or hybrid
-3. Agreement on how to handle the role-lane tension with Aashish and Shashi in Phase 2
+Four cofounders need a clear written agreement before incorporation. Items to settle together:
 
-## What to walk away with from Phase 2 (four-way)
+### Equity split — basis to align on
 
-1. Confirmed lane, with all four bought in
-2. Roles confirmed or redefined per the lane
-3. First cut at equity, vesting, decision rights — written down
-4. Existing book exit waterfall — who owns the operational work
-5. Agreement to engage a securities lawyer before any further work
+- Capital contributed by each founder
+- Existing business value Vinayak brings (brand, strategy, client trust)
+- Sweat & time commitment (full-time vs. part-time)
+- Role criticality and replaceability
 
-Once those are settled, the Jan 2027 plan becomes a normal project: capitalization, registration, ops, tech, exit waterfall, founders' agreement, milestones backward from Jan.
+We don't need to pick a number today — we need to align on the *basis* for the calculation. Numbers follow.
+
+### Founders' agreement essentials
+
+- Vesting schedule (standard 4-year, 1-year cliff) — applies to all four
+- Decision rights matrix — what's unanimous, what's majority, what's individual
+- Tie-breaker mechanism for 2-2 splits
+- Reserved matters — new investors, capital raises, strategy pivots, dissolution
+- Exit / buyout mechanics if any founder wants out in years 1–3
+- Standard protective provisions: drag-along, tag-along, ROFR
+- IP ownership — strategy and intellectual property treatment
+- Non-compete and non-solicit
+- Compensation philosophy — salary, equity, profit share
+
+### Four-cofounder specifics
+
+- Quorum rules so one founder's absence doesn't block decisions
+- Bad-leaver vs. good-leaver definitions for unvested + vested shares
+- Founders' loan vs. equity — clear demarcation
+- Board composition and meeting cadence
+
+A securities lawyer should draft the founders' agreement once we're aligned on the basics. This isn't optional — it protects all four of us.
 
 ---
 
-## Personal posture going into the conversations
+## What we walk away with
 
-The DD checklist staying on file even after deciding to invest told me the legal substance was taken seriously. Co-founder + director + three other people relying on your due diligence amplifies every concern that checklist surfaced. Take that posture into both phases.
+By the end of our alignment conversation:
 
-Internal check before signing anything: **"If SEBI walks into this office tomorrow, can I defend every decision I've signed off on — and can the other three?"**
+1. **Chosen lane** (or a clear date by which we'll decide)
+2. **Approach to existing investor relationships** — timing and ownership
+3. **First cut at equity split, vesting, and decision rights** — written down
+4. **Commitment to engage a securities lawyer** for the founders' agreement
+5. **Backward-planned milestones** from Jan 2027 — registration, capitalization, ops, tech, brand launch
+
+Once those are in place, the Jan 2027 launch becomes a structured project we can execute together.
 
 ---
 
 ## Related files in this folder
 
-- [[Trading-Investment-Due-Diligence]] — original DD checklist from the investor-side framing; many questions still apply at firm scale
-- `VS_Trading_Pitch_Deck_v2.pptx` — Vinayak's current investor pitch deck; the artifact this whole conversation is reacting to
+- [[Comparables-and-Brand-Plan]] — companies to study and our presentability / social media playbook
+- `VS_Trading_Pitch_Deck_v2.pptx` — current pitch deck
